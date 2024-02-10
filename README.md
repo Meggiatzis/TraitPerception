@@ -1,7 +1,7 @@
 # TraitPerception
 Examining perceived trustworthiness in male and female voices with vary pitch.
 
-## Load Libraries 
+## load libraries 
 library("cocor")
 library("performance")
 library("see")
